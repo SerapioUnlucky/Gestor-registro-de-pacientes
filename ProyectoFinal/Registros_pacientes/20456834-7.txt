@@ -1,0 +1,23 @@
+Nombre=Nicolas Salgado
+Rut=20456834-7
+Direccion=Villa alegre 123
+Fecha_de_nacimiento=01/11/2000
+Telefono=945678345
+Correo_electronico=nicolas@gmail.com
+Fonasa/isapre=Fonasa
+Sexo=Masculino
+Fecha_PCR=03/12/2021
+Enfermedades=Ninguna
+Nombre_persona_de_contacto=Isabel Villa 
+Telefono_persona_de_contacto=956753456
+Nombre_establecimiento
+Direccion_establecimiento=
+Director_establecimiento=
+Sector_establecimiento=
+Nombre_residencia_sanitaria=
+Direccion_residencia_sanitaria=
+Medicamentos=Ninguno
+Procedimientos=Ninguno
+Nombre_medico=Miguel Hormazabal 
+Rut_medico=17456845-7
+Estado=Recuperado

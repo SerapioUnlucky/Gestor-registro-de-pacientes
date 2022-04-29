@@ -1,0 +1,23 @@
+Nombre=Cristiano Ronaldo 
+Rut=15675847-5
+Direccion=Las garzas 846
+Fecha_de_nacimiento=17/11/1980
+Telefono=975468346
+Correo_electronico=cristiano@gmail.com
+Fonasa/isapre=Fonasa
+Sexo=Masculino
+Fecha_PCR=15/11/2021
+Enfermedades=Ninguna
+Nombre_persona_de_contacto=Lionel Messi
+Telefono_persona_de_contacto=945896745
+Nombre_establecimiento
+Direccion_establecimiento=
+Director_establecimiento=
+Sector_establecimiento=
+Nombre_residencia_sanitaria=
+Direccion_residencia_sanitaria=
+Medicamentos=Ninguno
+Procedimientos=Ninguno
+Nombre_medico=Humberto Suazo
+Rut_medico=14675948-8
+Estado=Cuarentena en su hogar
