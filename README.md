@@ -1,6 +1,4 @@
 # Registro de pacientes
-Proyecto semestral de la asignatura "Paradigmas de la programación".
-
 # Enunciado:
 Para poder entregar cifras confiables usted ha sido contactado por el Ministerio de Salud para
 desarrollar un software en Java con interfaz gráfica que permita gestionar la información de los
